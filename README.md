@@ -45,7 +45,7 @@ Clipper turns on and replaces crypto wallet addresses in the clipboard when a us
 Webcam screenshots will be taken if the user is watching something obscene on the Internet.
 🔨 Builder: ![image](https://github.com/savagecurly90/Crispy-Stealer/assets/54916359/438eb22b-4d8d-41a6-940d-0b3ce6533959)
 
-📢 Channel Webhook:![image](https://github.com/savagecurly90/Crispy-Stealer/assets/54916359/bd554dea-4447-40ac-8c40-f0ef3e3f76fb)
+📢 Channel Webhook:  ![image](https://github.com/savagecurly90/Crispy-Stealer/assets/54916359/bd554dea-4447-40ac-8c40-f0ef3e3f76fb)
 
 Requirements:
 If you want to build from the source these are the requirements.
