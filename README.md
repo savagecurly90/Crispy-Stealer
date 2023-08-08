@@ -43,3 +43,4 @@ The keylogger will turn on if the user is texting in the chat or using the bank'
 Clipper turns on and replaces crypto wallet addresses in the clipboard when a user makes a transaction.
 📷 Webcam screenshots:
 Webcam screenshots will be taken if the user is watching something obscene on the Internet.
+🔨 Builder: ![image](https://github.com/savagecurly90/Crispy-Stealer/assets/54916359/438eb22b-4d8d-41a6-940d-0b3ce6533959)
